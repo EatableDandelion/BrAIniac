@@ -1,4 +1,4 @@
-
+/* this class is faulty, the backward prop is wrong */
 public class BatchNormLayer extends Layer{
 	private float average;
 	private float stddev2;
